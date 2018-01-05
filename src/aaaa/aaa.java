@@ -7,6 +7,11 @@ public class aaa {
 	System.out.println("nihao ");
 	System.out.println("bbbbbb");
 	System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");
 }
 
 }
