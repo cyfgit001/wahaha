@@ -12,6 +12,9 @@ public class aaa {
 	  System.out.println("bbbbbb");
 	  System.out.println("bbbbbb");
 	  System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");
+	  System.out.println("bbbbbb");System.out.println("bbbbbb");System.out.println("bbbbbb");
 }
 
 }
