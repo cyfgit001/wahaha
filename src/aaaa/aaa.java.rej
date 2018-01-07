@@ -1,0 +1,25 @@
+diff a/src/aaaa/aaa.java b/src/aaaa/aaa.java	(rejected hunks)
+@@ -4,22 +4,7 @@
+ 
+   public static void main(String[] args) {
+ 
+-	 
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
+-	  System.out.println("===================");
++   System.out.println("ֻ����ô�仰");
+ 
+ }
+ 
